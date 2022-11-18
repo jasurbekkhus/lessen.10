@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: #222;
+}
+.bek{
+    position: absolute;
+    width: 300px;
+    transform: rotate();
+    border-radius: 150px  150px 20px 20px;
+    height: 350px;
+    left: 40%;
+    top: 25%;
+    background: #f2ad43;
+}
+
